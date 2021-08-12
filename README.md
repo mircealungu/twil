@@ -10,4 +10,4 @@
 
 - [TripMode](https://tripmode.ch/) - A nice app for easily monitoring and controlling network traffic on OS X. Especially useful when sharing the phone's data connection abroad with limited data roaming.  
 
-- Boetius. The consolation of Philosophy. Prison literature. Meditations on fortune. Happiness comes from within. Virtue is the one thing one truly has, because it is not at the hand of fortune.
+- [The consolation of Philosophy](https://www.goodreads.com/book/show/31837.The_Consolation_of_Philosophy). Prison literature by the roman statesman Boetius. While waiting his execution he meditations on fortune and free will. Happiness comes from within. Virtue is the one thing one truly has, because it is not at the hand of fortune.
