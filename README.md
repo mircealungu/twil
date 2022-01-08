@@ -14,7 +14,7 @@
 	* state of nature - no property; it's not that you don't have anything; it's worse; it's that everything belongs to everybody; and everything is constantly up for grabs; 
 	* without a Leviathan, a strong state, there is no guarantee of anybody respecting the social contract
 	* there is no "injustice" when no laws are put in place. Whether something is "good" or "bad" or "right" or "wrong" really only is present when there is a goal that is trying to be achieved
-	* if you're one of the people that thing that deep down, humans are good Hobbes would say: why lock the door at night? 
+	* if you're one of the people that think that deep down, humans are good Hobbes would say: why lock the door at night? 
 	* Hobbes says what humans eventually realize in this state of nature is that they could achieve a higher level of self-preservation, that is, a life without all of this constant looking over your shoulder and uncertainty, they could achieve that life if they could eliminate this threat of other humans.
 	* Government is a necessary evil
 	* Hobbes says that because we are reasoning creatures, that if we use our ability to reason and think about what behavior would yield the greatest quality of self-preservation, we naturally arrive at certain principles. This is why the collection of them is aptly named "Natural Law". 
