@@ -2,12 +2,12 @@
 # Week 1
 
 * David Hume - Scottish Enlightenment
- * a skeptical guy who was also jolly; reminds me of Niko; ("Poor David Hume is dying fast, but with real cheerfulness and good humor and with real resignation to the necessary course of things", Adam Smith)
- * Excellent at spotting assumptions (e.g. the argument of the great watchmaker; you are assuming you can make a comparison between a watch and a universe; you are assuming that there had to be a creator - could have been many causes; could have been many universes; you are finally assuming that the creator is your god; could be any of the othe ones; also, you are assuming it's one god; but could have been a committee, e.g.)
- * if we accept the existence of an intelligent designer, what have we accepted the existence of? if we accept the existence of a soul, what have we accepted the existence of? if it's eternal, what makes you think it wasn't there before?
- * and if human intelligence needed a designer, who designed the intelligence of the designer? 
- * "When anyone tells me, that he saw a dead man restored to life, I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened."
- * "A wise man always proportions his belief to the evidence."
+	* a skeptical guy who was also jolly; reminds me of Niko; ("Poor David Hume is dying fast, but with real cheerfulness and good humor and with real resignation to the necessary course of things", Adam Smith)
+	* Excellent at spotting assumptions (e.g. the argument of the great watchmaker; you are assuming you can make a comparison between a watch and a universe; you are assuming that there had to be a creator - could have been many causes; could have been many universes; you are finally assuming that the creator is your god; could be any of the othe ones; also, you are assuming it's one god; but could have been a committee, e.g.)
+	* if we accept the existence of an intelligent designer, what have we accepted the existence of? if we accept the existence of a soul, what have we accepted the existence of? if it's eternal, what makes you think it wasn't there before?
+	* and if human intelligence needed a designer, who designed the intelligence of the designer? 
+	* "When anyone tells me, that he saw a dead man restored to life, I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened."
+	* "A wise man always proportions his belief to the evidence."
 
  
 * Thomas Hobbes, Leviathan
