@@ -1,13 +1,28 @@
 
+# Week 1
 
-## Week #32
+* David Hume - Scottish Enlightenment
+ * a skeptical guy who was also jolly; reminds me of Niko; ("Poor David Hume is dying fast, but with real cheerfulness and good humor and with real resignation to the necessary course of things", Adam Smith)
+ * Excellent at spotting assumptions (e.g. the argument of the great watchmaker; you are assuming you can make a comparison between a watch and a universe; you are assuming that there had to be a creator - could have been many causes; could have been many universes; you are finally assuming that the creator is your god; could be any of the othe ones; also, you are assuming it's one god; but could have been a committee, e.g.)
+ * if we accept the existence of an intelligent designer, what have we accepted the existence of? if we accept the existence of a soul, what have we accepted the existence of? if it's eternal, what makes you think it wasn't there before?
+ * and if human intelligence needed a designer, who designed the intelligence of the designer? 
+ * "When anyone tells me, that he saw a dead man restored to life, I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened."
+ * "A wise man always proportions his belief to the evidence."
 
-1. The *Two and Done Rule* (the last idea in the essay at [An Old Hacker's Tips on Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)): 
+ 
+* Thomas Hobbes, Leviathan
+	* state of nature - no property; it's not that you don't have anything; it's worse; it's that everything belongs to everybody; and everything is constantly up for grabs; 
+	* without a Leviathan, a strong state, there is no guarantee of anybody respecting the social contract
+	* there is no "injustice" when no laws are put in place. Whether something is "good" or "bad" or "right" or "wrong" really only is present when there is a goal that is trying to be achieved
+	* if you're one of the people that thing that deep down, humans are good Hobbes would say: why lock the door at night? 
+	* Hobbes says what humans eventually realize in this state of nature is that they could achieve a higher level of self-preservation, that is, a life without all of this constant looking over your shoulder and uncertainty, they could achieve that life if they could eliminate this threat of other humans.
+	* Government is a necessary evil
+	* Hobbes says that because we are reasoning creatures, that if we use our ability to reason and think about what behavior would yield the greatest quality of self-preservation, we naturally arrive at certain principles. This is why the collection of them is aptly named "Natural Law". 
+	* The sovereign. The leader with absolute authority to do whatever he wants, whenever he wants in the interest of maintaining the contract. While in the state of nature, we have complete control over our lives to go where ever we want, take what ever we want, kill whoever we want, but when we sign the social contract, which is without question a more self-preserving lifestyle, we forfeit much of that control over what we can do to the sovereign. His job, is to keep us OUT of that terrible, perpetual state of war that we would otherwise find ourselves in. Because there was no previous moral code when you were in the state of nature, the laws the sovereign puts in place in the interest of keeping us OUT of a perpetual state of war ARE the moral order that you are beholden to. Because the sovereign is the moral authority, it doesn't matter how tyrannical or seemingly terrible he is to you, no matter how bad it is he is still keeping you out of the state of nature, which is without question, much worse for you. The state of nature is the state of war and the end that all of us should really be striving for is the opposite of that: a state of peace. The enforcer of the social contract, the sovereign, maintains that peace at all costs. Your job is to follow his laws even if you don't understand why they are laws.
 
-	- Don't argue more than twice about any topic at work; state your point; state it one more time; then let go graciously, possibly acknowledge, and go with their way. 
+	>  "In such condition there is no place for industry, because the fruit thereof is uncertain: and consequently no culture of the earth; no navigation, nor use of the commodities that may be imported by sea; no commodious building; no instruments of moving and removing such things as require much force; no knowledge of the face of the earth; no account of time; no arts; no letters; no society; and which is worst of all, continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short"
 
-	- This is something I could have used in the past... I remember that once, during a workshop I antagonized an entire group of people trying to argue over and over with them that the project we were paid to work on "was not going to work". Nobody wanted to hear that, and eventually I made myself persona non grata.
 
-2. [TripMode](https://tripmode.ch/) - A nice app for easily monitoring and controlling network traffic on OS X. Especially useful when sharing the phone's data connection abroad with limited data roaming.  
+ 
+ 
 
-3. [The consolation of Philosophy](https://www.goodreads.com/book/show/31837.The_Consolation_of_Philosophy). Prison literature by the roman statesman Boetius. While waiting his execution he meditations on fortune and free will. Happiness comes from within. Virtue is the one thing one truly has, because it is not at the hand of fortune.
