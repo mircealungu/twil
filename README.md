@@ -15,12 +15,19 @@
 	* without a Leviathan, a strong state, there is no guarantee of anybody respecting the social contract
 	* there is no "injustice" when no laws are put in place. Whether something is "good" or "bad" or "right" or "wrong" really only is present when there is a goal that is trying to be achieved
 	* if you're one of the people that think that deep down, humans are good Hobbes would say: why lock the door at night? 
-	* Hobbes says what humans eventually realize in this state of nature is that they could achieve a higher level of self-preservation, that is, a life without all of this constant looking over your shoulder and uncertainty, they could achieve that life if they could eliminate this threat of other humans.
-	* Government is a necessary evil
-	* Hobbes says that because we are reasoning creatures, that if we use our ability to reason and think about what behavior would yield the greatest quality of self-preservation, we naturally arrive at certain principles. This is why the collection of them is aptly named "Natural Law". 
-	* The sovereign. The leader with absolute authority to do whatever he wants, whenever he wants in the interest of maintaining the contract. While in the state of nature, we have complete control over our lives to go where ever we want, take what ever we want, kill whoever we want, but when we sign the social contract, which is without question a more self-preserving lifestyle, we forfeit much of that control over what we can do to the sovereign. His job, is to keep us OUT of that terrible, perpetual state of war that we would otherwise find ourselves in. Because there was no previous moral code when you were in the state of nature, the laws the sovereign puts in place in the interest of keeping us OUT of a perpetual state of war ARE the moral order that you are beholden to. Because the sovereign is the moral authority, it doesn't matter how tyrannical or seemingly terrible he is to you, no matter how bad it is he is still keeping you out of the state of nature, which is without question, much worse for you. The state of nature is the state of war and the end that all of us should really be striving for is the opposite of that: a state of peace. The enforcer of the social contract, the sovereign, maintains that peace at all costs. Your job is to follow his laws even if you don't understand why they are laws.
 
 	>  "In such condition there is no place for industry, because the fruit thereof is uncertain: and consequently no culture of the earth; no navigation, nor use of the commodities that may be imported by sea; no commodious building; no instruments of moving and removing such things as require much force; no knowledge of the face of the earth; no account of time; no arts; no letters; no society; and which is worst of all, continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short"
+
+	
+	* Humans eventually realize in this state of nature is that they could achieve a higher level of self-preservation, that is, a life without all of this constant looking over your shoulder and uncertainty, they could achieve that life if they could eliminate this threat of other humans.
+	* Government is a necessary evil
+	* Because we are reasoning creatures, that if we use our ability to reason and think about what behavior would yield the greatest quality of self-preservation, we naturally arrive at certain principles. This is why the collection of them is aptly named "Natural Law". 
+	* The sovereign. The leader with absolute authority to do whatever he wants, whenever he wants in the interest of maintaining the contract. 
+		* While in the state of nature, we have complete control over our lives to go where ever we want, take what ever we want, kill whoever we want, but 
+		* when we sign the social contract, which is without question a more self-preserving lifestyle, we forfeit much of that control over what we can do to the sovereign. 
+		* His job, is to keep us OUT of that terrible, perpetual state of war that we would otherwise find ourselves in. 
+		* The laws the sovereign puts in place in the interest of keeping us OUT of a perpetual state of war ARE the moral order that you are beholden to. 
+		* Because the sovereign is the moral authority, it doesn't matter how tyrannical or seemingly terrible he is to you, no matter how bad it is he is still keeping you out of the state of nature, which is without question, much worse for you.
 
 
  
