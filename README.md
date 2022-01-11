@@ -1,3 +1,13 @@
+# Week 2
+
+Technical
+* brew services = adapter for launchctl and launchd
+* brew = installs everything in `/opt/homebrew` for ARM architectures (was /usr/local)
+* (adapter, facade, proxy) = (adapts to a new interface, simplifies a complex interface, stands for another object possibly doing some housekeeping in the process) [so](https://stackoverflow.com/a/3489187)
+
+Philosophy
+* Kant = the [thing in itself](https://www.britannica.com/topic/thing-in-itself) we can not know; we can only know the perception of the thing; quite philosophical, one must admit
+
 
 # Week 1
 
