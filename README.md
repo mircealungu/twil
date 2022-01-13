@@ -1,15 +1,60 @@
 # Week 2
 
 Technical
-* brew services = adapter for launchctl and launchd
-* brew = installs everything in `/opt/homebrew` for ARM architectures (was /usr/local)
+* brew services = e.g., `brew services restart mysql`, adapter for launchctl and launchd
+* brew = installs everything in `/opt/homebrrepeew` for ARM architectures (was /usr/local)#35 
 * (adapter, facade, proxy) = (adapts to a new interface, simplifies a complex interface, stands for another object possibly doing some housekeeping in the process) ([so](https://stackoverflow.com/a/3489187))
 * ElasticSearch = filter vs. query: filter is boolean; query results in a ranking of documents
 * Trying setup with three monitors; mouse cursor is lagggy and freezes on one of the dells; switching the cable from hdmi to usb-c/thunderbolt, as this [seems to have solved the problem for others](https://forums.macrumors.com/threads/resolved-external-monitors-and-mouse-lag.2194467/)
 
 
+Other
+
+* macbook stand/holder? https://www.apple.com/dk/shop/product/HA244ZM/B/twelve-south-hirise-justerbar-holder-til-macbook-pro-og-macbook-air
+
+* streamdeck - led keyboard that's programmable? 
+
+
 Philosophy
 * Kant = the [thing in itself](https://www.britannica.com/topic/thing-in-itself) we can not know; we can only know the perception of the thing; quite philosophical, one must admit
+  * categorical imperative - act only according to that maxim that you would like to become a universal law
+
+
+
+Culture
+* https://quillette.com/2022/01/12/against-land-acknowledgements/ - article about a professor who wrote his own land acknowledgement and scared his university
+
+
+Music
+* fingerpicking style - anchoring the pinky: https://www.youtube.com/watch?v=JWSSS7tJ2wQ
+* Mark Knopflder on fingerpicking - https://www.youtube.com/watch?v=qvdPB97-C5o
+
+
+Random
+* “You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.” ~ Aretha Franklin
+* good twitter list: tools for thought: https://twitter.com/i/lists/1431302825858977795
+
+* better watch the sunrise on jan 1st than count at midnight :)
+
+
+
+Teaching
+* tacit knowledge transmission is higher-bandwidth than explicitly explaining stuff
+  - .. powerful moment when students realize teacher actually doesn't know why a bug is happening, and they can genuinely debug together as a normal part of the creative process
+
+
+* for the future: debugging as a topic
+  - Perhaps ironically, I often find debugging a tricky bug to be way more fun than other parts of programming. Hard enough to feel rewarding, easy enough to be tractable, and there's a tangible benefit from solving the mystery. Sort of a chance to do science on easy mode.
+  - Geoffrey Litt @geofreylitt
+
+
+Personal
+* pay more attention to how you dress and present yourself - would it hurt you if you presented like this? https://ddsks.dk/en/ansatte/rasmus-olme
+
+
+
+
+
 
 
 # Week 1
