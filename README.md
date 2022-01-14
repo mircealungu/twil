@@ -1,6 +1,7 @@
 # Week 2
 
 Technical
+
 * brew services = e.g., `brew services restart mysql`, adapter for launchctl and launchd
 * brew = installs everything in `/opt/homebrrepeew` for ARM architectures (was /usr/local)#35 
 * (adapter, facade, proxy) = (adapts to a new interface, simplifies a complex interface, stands for another object possibly doing some housekeeping in the process) ([so](https://stackoverflow.com/a/3489187))
@@ -16,6 +17,7 @@ Other
 
 
 Philosophy
+
 * Kant = the [thing in itself](https://www.britannica.com/topic/thing-in-itself) we can not know; we can only know the perception of the thing; quite philosophical, one must admit
   * categorical imperative - act only according to that maxim that you would like to become a universal law
 
@@ -26,15 +28,18 @@ Philosophy
 
 
 Culture
+
 * https://quillette.com/2022/01/12/against-land-acknowledgements/ - article about a professor who wrote his own land acknowledgement and scared his university
 
 
 Music
+
 * fingerpicking style - anchoring the pinky: https://www.youtube.com/watch?v=JWSSS7tJ2wQ
 * Mark Knopflder on fingerpicking - https://www.youtube.com/watch?v=qvdPB97-C5o
 
 
 Random
+
 * “You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.” ~ Aretha Franklin
 * good twitter list: tools for thought: https://twitter.com/i/lists/1431302825858977795
 
@@ -43,6 +48,7 @@ Random
 
 
 Teaching
+
 * tacit knowledge transmission is higher-bandwidth than explicitly explaining stuff
   - .. powerful moment when students realize teacher actually doesn't know why a bug is happening, and they can genuinely debug together as a normal part of the creative process
 
@@ -53,6 +59,7 @@ Teaching
 
 
 Personal
+
 * pay more attention to how you dress and present yourself - would it hurt you if you presented like this? https://ddsks.dk/en/ansatte/rasmus-olme
 
 
