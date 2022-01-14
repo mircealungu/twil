@@ -56,7 +56,7 @@ Personal
 * pay more attention to how you dress and present yourself - would it hurt you if you presented like this? https://ddsks.dk/en/ansatte/rasmus-olme
 
 
-* and embedding links in an embedded svg file: <img src="./link_in_svg.svg"/ width="180px">
+* and embedding links in an embedded svg file: ![embedded svg](./link_in_svg.svg)
 
 
 
