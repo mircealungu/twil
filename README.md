@@ -19,6 +19,10 @@ Philosophy
 * Kant = the [thing in itself](https://www.britannica.com/topic/thing-in-itself) we can not know; we can only know the perception of the thing; quite philosophical, one must admit
   * categorical imperative - act only according to that maxim that you would like to become a universal law
 
+* Mary Wollstonecraft -- educating women to be slaves is what society was doing in her time; at time when rights of men and slavery were being debated; rights of women in 1792. 
+
+* Hegel = thesis, synthesis, antithesis = is he simply observing the way we steer any system? constantly adjusting a bit to the left, a bit to the right; probably we can understand him if we think in terms of cybernetics
+
 
 
 Culture
@@ -52,6 +56,7 @@ Personal
 * pay more attention to how you dress and present yourself - would it hurt you if you presented like this? https://ddsks.dk/en/ansatte/rasmus-olme
 
 
+* and embedding links in an embedded svg file: <img src="./link_in_svg.svg"/ width="180px">
 
 
 
