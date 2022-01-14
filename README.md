@@ -65,6 +65,8 @@ Personal
 
 * and embedding links in an embedded svg file: ![embedded svg](./link_in_svg.svg)
 
+* added the `cape` aias == commit-and-push-w/-empty-message...
+
 
 
 
