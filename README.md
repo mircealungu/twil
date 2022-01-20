@@ -1,3 +1,17 @@
+# Week 3
+
+* Interview with Gigi Buffon - about depression - https://www.youtube.com/watch?v=89KdxJomDzg 
+* Amazing audio lectures on history -  http://www.infocobuild.com/education/audio-video-courses/history/History5-Fall2010-Berkeley/lecture-06.html 
+
+* Why are there only a handful of names thatwe all know in tennis - https://www.quora.com/What-separates-the-world%E2%80%99s-1-tennis-player-from-the-250-one-Does-the-1-player-just-have-slightly-less-unforced-errors-slightly-faster-serve-etc-that-accumulate-to-make-him-her-more-likely-to-win-a-5-set-match-or-is-he-she-just-better 
+
+* djokovic seems to have paid somebody to generate a positive test for him, and then a negative test after so he looks like he's healed: https://republica.ro/salutari-din-melbourne-locul-unde-s-a-spart-zbuba-lantul-slabiciunilor-erorilor-si-ilegalitatilor-in-cazul
+
+* chagal, The Promenade - https://www.wikiart.org/en/marc-chagall/the-promenade-1918
+
+
+
+
 # Week 2
 
 Technical
