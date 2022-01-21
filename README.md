@@ -21,11 +21,11 @@ sartre: existence precedes essence;
 
 * nietsche: 
 
+  * the need for meaning is universal, this is why so many solutions in so many different cultures and contexts
+
   * **true world theory** - a perfect world that satisfies the human need for meaning; stems from the dissatisfaction with the imperfection of our world; examples of true worlds can be found in religion but also seculary ideologies that are looking for establishing a perfect world here on earth 
 
-  * the need for meaning is universal, this is why so many solutions
-
-  * he finds that religion and alcohol are both trying to solve existential angst 
+  * he finds that religion and alcohol are both trying to solve existential angst by runnign from reality
 
 
 
