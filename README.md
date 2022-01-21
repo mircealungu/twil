@@ -1,20 +1,54 @@
 # Week 3
 
-* Interview with Gigi Buffon - about depression - https://www.youtube.com/watch?v=89KdxJomDzg 
-* Amazing audio lectures on history -  http://www.infocobuild.com/education/audio-video-courses/history/History5-Fall2010-Berkeley/lecture-06.html 
 
-* Why are there only a handful of names thatwe all know in tennis - https://www.quora.com/What-separates-the-world%E2%80%99s-1-tennis-player-from-the-250-one-Does-the-1-player-just-have-slightly-less-unforced-errors-slightly-faster-serve-etc-that-accumulate-to-make-him-her-more-likely-to-win-a-5-set-match-or-is-he-she-just-better 
+
+## Technical 
+
+* fgrep = version of grep that searches for the fixed string (i.e., no regex)
+  * example, all the student projects that use `props.children` 
+
+    `fgrep -R --exclude-dir=node_modules --exclude-dir=.react-bratus --exclude-dir=public 'props.children' .`
+
+
+## Philosophy
+
+* plato & aristotle: essence precedes existence; every object and thing has an essence; the thing that makes it so; e.g. a football has non-essential properties; but also some essential properties; and they exist before it
+sartre: existence precedes essence; 
+
+* kirkegaard: the anxiety of freedom
+
+* sartre: bad faith: when you lie to yourself just for the comfort;
+
+
+
+## Art
+
+* chagal, The Promenade - https://www.wikiart.org/en/marc-chagall/the-promenade-1918
+
+
+
+## Zeitgeist
 
 * djokovic seems to have paid somebody to generate a positive test for him, and then a negative test after so he looks like he's healed: https://republica.ro/salutari-din-melbourne-locul-unde-s-a-spart-zbuba-lantul-slabiciunilor-erorilor-si-ilegalitatilor-in-cazul
 
-* chagal, The Promenade - https://www.wikiart.org/en/marc-chagall/the-promenade-1918
+* expression I saw somewhere: "Djokovic lives in your head without rent"; why do we care about these famous folks?
+
+
+
+## Life
+
+* Why are there only a handful of names thatwe all know in tennis - https://www.quora.com/What-separates-the-world%E2%80%99s-1-tennis-player-from-the-250-one-Does-the-1-player-just-have-slightly-less-unforced-errors-slightly-faster-serve-etc-that-accumulate-to-make-him-her-more-likely-to-win-a-5-set-match-or-is-he-she-just-better 
+
+* Interview with Gigi Buffon - about depression - https://www.youtube.com/watch?v=89KdxJomDzg 
+
+* Amazing audio lectures on history -  http://www.infocobuild.com/education/audio-video-courses/history/History5-Fall2010-Berkeley/lecture-06.html 
 
 
 
 
 # Week 2
 
-Technical
+## Technical
 
 * brew services = e.g., `brew services restart mysql`, adapter for launchctl and launchd
 * brew = installs everything in `/opt/homebrrepeew` for ARM architectures (was /usr/local)#35 
@@ -23,14 +57,9 @@ Technical
 * Trying setup with three monitors; mouse cursor is lagggy and freezes on one of the dells; switching the cable from hdmi to usb-c/thunderbolt, as this [seems to have solved the problem for others](https://forums.macrumors.com/threads/resolved-external-monitors-and-mouse-lag.2194467/)
 
 
-Other
-
-* macbook stand/holder? https://www.apple.com/dk/shop/product/HA244ZM/B/twelve-south-hirise-justerbar-holder-til-macbook-pro-og-macbook-air
-
-* streamdeck - led keyboard that's programmable? 
 
 
-Philosophy
+## Philosophy
 
 * Kant = the [thing in itself](https://www.britannica.com/topic/thing-in-itself) we can not know; we can only know the perception of the thing; quite philosophical, one must admit
   * categorical imperative - act only according to that maxim that you would like to become a universal law
@@ -39,20 +68,23 @@ Philosophy
 
 * Hegel = thesis, synthesis, antithesis = is he simply observing the way we steer any system? constantly adjusting a bit to the left, a bit to the right; probably we can understand him if we think in terms of cybernetics
 
+* Thoreau = the more you own, the more the things you own own you. does it apply to research too? 
 
 
-Culture
+
+## Culture
 
 * https://quillette.com/2022/01/12/against-land-acknowledgements/ - article about a professor who wrote his own land acknowledgement and scared his university
 
 
-Music
+
+## Music
 
 * fingerpicking style - anchoring the pinky: https://www.youtube.com/watch?v=JWSSS7tJ2wQ
 * Mark Knopflder on fingerpicking - https://www.youtube.com/watch?v=qvdPB97-C5o
 
 
-Random
+## Random
 
 * “You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.” ~ Aretha Franklin
 * good twitter list: tools for thought: https://twitter.com/i/lists/1431302825858977795
@@ -61,7 +93,7 @@ Random
 
 
 
-Teaching
+## Teaching
 
 * tacit knowledge transmission is higher-bandwidth than explicitly explaining stuff
   - .. powerful moment when students realize teacher actually doesn't know why a bug is happening, and they can genuinely debug together as a normal part of the creative process
@@ -72,7 +104,7 @@ Teaching
   - Geoffrey Litt @geofreylitt
 
 
-Personal
+## Personal
 
 * pay more attention to how you dress and present yourself - would it hurt you if you presented like this? https://ddsks.dk/en/ansatte/rasmus-olme
 
@@ -82,6 +114,13 @@ Personal
 * added the `cape` aias == commit-and-push-w/-empty-message...
 
 
+
+
+Other
+
+* macbook stand/holder? https://www.apple.com/dk/shop/product/HA244ZM/B/twelve-south-hirise-justerbar-holder-til-macbook-pro-og-macbook-air
+
+* streamdeck - led keyboard that's programmable? 
 
 
 
