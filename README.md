@@ -28,6 +28,11 @@ sartre: existence precedes essence;
   * he finds that religion and alcohol are both trying to solve existential angst by runnign from reality
 
 
+## History
+
+* I re-found the amazing audio lectures on history that I was listening to during my PhD - would be nice to restart listening -  http://www.infocobuild.com/education/audio-video-courses/history/History5-Fall2010-Berkeley/lecture-06.html 
+
+
 
 ## Art
 
@@ -49,7 +54,7 @@ sartre: existence precedes essence;
 
 * Interview with Gigi Buffon - about depression - https://www.youtube.com/watch?v=89KdxJomDzg 
 
-* Amazing audio lectures on history -  http://www.infocobuild.com/education/audio-video-courses/history/History5-Fall2010-Berkeley/lecture-06.html 
+
 
 
 
