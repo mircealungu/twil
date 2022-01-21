@@ -15,9 +15,11 @@
 * plato & aristotle: essence precedes existence; every object and thing has an essence; the thing that makes it so; e.g. a football has non-essential properties; but also some essential properties; and they exist before it
 sartre: existence precedes essence; 
 
-* kirkegaard: the anxiety of freedom
+* kirkegaard: anxiety = the dizziness of freedom
 
 * sartre: bad faith: when you lie to yourself just for the comfort;
+
+* camus: theory that Camus wrote The Stranger in order to prove that humans don't empathise with the protagonist; i guess that's why i couldn't read it
 
 * nietsche: 
 
