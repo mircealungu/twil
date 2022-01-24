@@ -9,7 +9,7 @@
 
     `fgrep -R --exclude-dir=node_modules --exclude-dir=.react-bratus --exclude-dir=public 'props.children' .`
 
-
+* Shriram Krisnamurthi [on low-code vs. no-code platforms](https://twitter.com/ShriramKMurthi/status/1485345768085110784)
 
 ## Danish NLP
 
