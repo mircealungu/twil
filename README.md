@@ -10,6 +10,14 @@
     `fgrep -R --exclude-dir=node_modules --exclude-dir=.react-bratus --exclude-dir=public 'props.children' .`
 
 
+
+## Danish NLP
+
+* [collection of Danish n-grams](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-28/) from the national bibliotek 
+
+* very long [list of danish resources](https://github.com/fnielsen/awesome-danish)
+
+
 ## Philosophy
 
 * plato & aristotle: essence precedes existence; every object and thing has an essence; the thing that makes it so; e.g. a football has non-essential properties; but also some essential properties; and they exist before it
@@ -48,6 +56,7 @@ sartre: existence precedes essence;
 
 * expression I saw somewhere: "Djokovic lives in your head without rent"; why do we care about these famous folks?
 
+* [short video on how mRNA vaccines work](https://www.youtube.com/watch?v=oMXGGmBfkf8)
 
 
 ## Life
@@ -56,6 +65,7 @@ sartre: existence precedes essence;
 
 * Interview with Gigi Buffon - about depression - https://www.youtube.com/watch?v=89KdxJomDzg 
 
+* [Article about a meta-study](https://www.healthline.com/nutrition/is-red-meat-bad-for-you-or-good#TOC_TITLE_HDR_9) observing that studies that link red meat with disease don't distinguish between processed and unprocessed
 
 
 
