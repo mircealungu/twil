@@ -1,8 +1,13 @@
 # Week 4
 
 
-* Golzadeh et al. - Ris and Fall of GHActions - https://e1.pcloud.link/publink/show?code=XZsrcFZXPvoKfud5xzpepl3ryJA6YriEIi7
+* Golzadeh et al. - Rise and Fall of GHActions - https://e1.pcloud.link/publink/show?code=XZsrcFZXPvoKfud5xzpepl3ryJA6YriEIi7
 
+
+
+## Philosophy
+
+* Heidegger = dasein = being-there; sometime you have to invent a new word to explain a new concept; 
 
 
 
