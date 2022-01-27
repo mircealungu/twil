@@ -14,6 +14,12 @@
   - [philosophise this guy](https://www.philosophizethis.org/transcript/episode-101-transcript): H thinks that *at our core, we are ontological beings* ; against H, John Dewey: "don't complain that we abuse nature; the alternative is that nature abuses us; look at your ancestors"; 
   - if we start looking at the world only from the POV of how can we use it; and everything is one, so other humans are also part of the world; we might risk looking at them from the pov of how could we use them; reminds me of Kant: every human being is *an end in themselves* 
 
+* Shopenhauer
+  - will to life = blind force that drives all living things behavior
+  - love is will to life's way of fooling us into propagating the species
+
+
+
 
 
 # Week 3
