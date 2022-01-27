@@ -11,7 +11,7 @@
 ## Philosophy
 
 * Heidegger = **dasein** (literally, being-there): *being and the world are one single thing*; sometime you have to invent a new word to explain a new concept; , dasein
-
+  - philosophise this guy: H thinks that *at our core, we are ontological beings* ; against H, John Dewey: "don't complain that we abuse nature; the alternative is that nature abuses us; look at your ancestors"; 
 
 
 
