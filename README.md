@@ -10,7 +10,7 @@
 
 ## Philosophy
 
-* Heidegger = dasein = being-there; sometime you have to invent a new word to explain a new concept; being and the world = one single thing, dasein
+* Heidegger = **dasein** (literally, being-there): *being and the world are one single thing*; sometime you have to invent a new word to explain a new concept; , dasein
 
 
 
