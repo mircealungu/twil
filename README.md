@@ -1,3 +1,12 @@
+# Week 4
+
+
+* Golzadeh et al. - Ris and Fall of GHActions - https://e1.pcloud.link/publink/show?code=XZsrcFZXPvoKfud5xzpepl3ryJA6YriEIi7
+
+
+
+
+
 # Week 3
 
 
@@ -67,7 +76,9 @@ sartre: existence precedes essence;
 
 * [Article about a meta-study](https://www.healthline.com/nutrition/is-red-meat-bad-for-you-or-good#TOC_TITLE_HDR_9) observing that studies that link red meat with disease don't distinguish between processed and unprocessed
 
+## Net
 
+* https://www.uselessweb.com/ - important that it's being served over https
 
 
 
