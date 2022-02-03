@@ -1,9 +1,16 @@
+# Week 5
+
+* Adorno - against entertainment; in our free time we should aim to become better persons; https://elrumo.medium.com/walt-disney-the-most-dangerous-american-in-history-b099a16a462d
+
+
 # Week 4
 
 
 ## Software Engineering
 
 * Golzadeh et al. - Rise and Fall of GHActions - https://e1.pcloud.link/publink/show?code=XZsrcFZXPvoKfud5xzpepl3ryJA6YriEIi7
+
+
 
 
 
