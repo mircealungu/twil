@@ -10,6 +10,7 @@
 
 * series of books that i just learned about: Oxfort Very Short Introduction & Cambridge Companion; I'd like to give a try to some of them when I find the time
 
+* why does the devil have horns? he took them from pan (https://www.quora.com/When-was-the-devil-first-depicted-with-horns)
 
 
 # Week 4
