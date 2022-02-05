@@ -12,6 +12,9 @@
 
 * why does the devil have horns? he took them from pan (https://www.quora.com/When-was-the-devil-first-depicted-with-horns)
 
+* when somebody asks you who you are? what do you answer? the sum total of the stories you tell yourself matters? could you feel better about yourself if you choose a different subset of stories about yourself? probably it would pay off to take time and think about the right stories to tell and re-tell; a bit like the jewish patriarchs would tell their best stories, and we ended up learning them ourselves; but are you cheating if you're only focusing on the good stories? 
+
+
 
 # Week 4
 
