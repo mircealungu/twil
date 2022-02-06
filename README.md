@@ -3,6 +3,8 @@
 
 ## Philosophy
 
+* hamartia = the original word for sin; hamartiology = one of the things that a religion tries to explain: what is wrong with us humans
+
 * Bertrand Russel = philosophy is the no-man's-land between religion and philosophy 
   - the circumstances in one's life determine their philosophy; and their philosophy determines their circumstances
 
