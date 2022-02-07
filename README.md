@@ -11,7 +11,7 @@
 
 * hamartia = the original word for sin = archery term meaning missing the mark; hamartiology = one of the things that a religion tries to explain: what is wrong with us humans
 
-* Bertrand Russel = philosophy is the no-man's-land between religion and philosophy 
+* Bertrand Russel = philosophy is the no-man's-land between religion and science 
   - the circumstances in one's life determine their philosophy; and their philosophy determines their circumstances
 
 * Adorno - against entertainment; in our free time we should aim to become better persons; https://elrumo.medium.com/walt-disney-the-most-dangerous-american-in-history-b099a16a462d
