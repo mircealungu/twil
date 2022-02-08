@@ -6,6 +6,15 @@
 
 # Week 5
 
+## Finance
+
+* psychology of a market cycle: https://fullycrypto.com/wp-content/uploads/2020/02/Wall-Street-Cheat-Sheet-Psychology-of-a-Market-Cycle-1024x700.png -- looking at the shape, looks like we're in the "complacency"...
+
+ 
+## Lifestyle
+
+* free things that make your life better: runing, reading, unix :) 
+
 
 ## Philosophy
 
