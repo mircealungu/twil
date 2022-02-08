@@ -16,6 +16,10 @@
 * free things that make your life better: runing, reading, unix :) 
 
 
+## Tech
+
+* [Dark patterns in a simple Amazon purchase](https://growth.design/case-studies/amazon-purchase-ux)
+
 ## Philosophy
 
 * hamartia = the original word for sin = archery term meaning missing the mark; hamartiology = one of the things that a religion tries to explain: what is wrong with us humans
