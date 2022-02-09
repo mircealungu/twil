@@ -6,6 +6,11 @@
 
 * [story of guy who debunked positive psychology "formula for flourishing"](https://narratively.com/nick-brown-smelled-bull/) 
 
+## Cph
+
+* [auctioning of lost bikes in cph](https://www.reddit.com/r/copenhagen/comments/sm2bjy/ive_heard_of_copenhagen_police_lost_bikes/)
+
+
 
 # Week 5
 
