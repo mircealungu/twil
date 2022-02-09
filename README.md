@@ -4,6 +4,9 @@
 
 * [react native vs. flutter](https://www.reddit.com/r/reactnative/comments/kv05zj/why_choose_react_native_and_not_flutter_in_2021/) = seems flutter is easier and more performant; native has a much bigger community & you can write also for the web at the same time
 
+* [story of guy who debunked positive psychology "formula for flourishing"](https://narratively.com/nick-brown-smelled-bull/) 
+
+
 # Week 5
 
 ## Finance
