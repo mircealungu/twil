@@ -1,5 +1,9 @@
 # Week 6
 
+## SLA
+
+* [extensive reading](https://www.tandfonline.com/doi/pdf/10.1080/00049670.2011.10722583) - easy material + wide range of topics + learner choice + learners read as much as possible + reading out of pleasure + reading own reward + reading speed faster + reading is individual ... seems like [Zeeguu](https://zeeguu.org] would be the best for this
+
 ## Academia
 
 * [paper in a day](https://twitter.com/kaitlin_sheerin/status/1489632237121384448) -- should try once
