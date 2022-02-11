@@ -30,7 +30,7 @@
  
 ## Lifestyle
 
-* free things that make your life better: runing, reading, unix :) 
+* free things that make your life better: runing, reading, unix, linux :) 
 
 
 ## Tech
