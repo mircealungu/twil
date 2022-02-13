@@ -22,6 +22,10 @@
 * [auctioning of lost bikes in cph](https://www.reddit.com/r/copenhagen/comments/sm2bjy/ive_heard_of_copenhagen_police_lost_bikes/)
 
 
+## Other
+
+* chris lattner has some cool [woodworking hobby projects](http://nondot.org/sabre/Woodworking.html#RileyTreasureBox) 
+
 
 # Week 5
 
