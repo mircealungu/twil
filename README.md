@@ -1,3 +1,12 @@
+# Week 7
+
+## Academia
+
+* FSE has [self-nominations for PC](https://conf.researchr.org/home/fse-2023)
+
+
+
+
 # Week 6
 
 ## SLA
