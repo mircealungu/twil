@@ -4,6 +4,9 @@
 
 * FSE has [self-nominations for PC](https://conf.researchr.org/home/fse-2023)
 
+## Programming
+
+* Good to explain in the intro to JS courses: https://www.destroyallsoftware.com/talks/wat
 
 
 
