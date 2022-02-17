@@ -9,6 +9,10 @@
 * Good to explain in the intro to JS courses: https://www.destroyallsoftware.com/talks/wat
 
 
+## Other
+
+* humidifiers seem to [help](https://www.reddit.com/r/eczema/comments/aqwalg/anybody_find_that_using_a_humidifier_help/) with eczema 
+
 
 # Week 6
 
