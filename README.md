@@ -3,6 +3,8 @@
 ## Academia
 
 * FSE has [self-nominations for PC](https://conf.researchr.org/home/fse-2023)
+* amelia wattemberg is the author of the [circle packing layout for gh repo vis](https://next.github.com/projects/repo-visualization/). 
+she has quite a lot of cool projects at her [watemberg.org](https://wattenberger.com/) site
 
 ## Programming
 
