@@ -20,6 +20,8 @@ she has quite a lot of cool projects at her [watemberg.org](https://wattenberger
 
 * michael hudson - [on the way the american empire tries to control the world[(https://michael-hudson.com/2019/07/u-s-economic-warfare-and-likely-foreign-defenses/) - interesting economist; has quite a broad historical and geopolitical perspective; 
 
+* us controls [90% of the oil in syria](https://www.middleeastmonitor.com/20210320-us-controls-90-of-syria-oil/)
+
 # Week 6
 
 ## SLA
