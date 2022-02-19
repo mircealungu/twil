@@ -16,6 +16,10 @@ she has quite a lot of cool projects at her [watemberg.org](https://wattenberger
 * humidifiers seem to [help](https://www.reddit.com/r/eczema/comments/aqwalg/anybody_find_that_using_a_humidifier_help/) with eczema 
 
 
+## Geopolitics
+
+* michael hudson - [on the way the american empire tries to control the world[(https://michael-hudson.com/2019/07/u-s-economic-warfare-and-likely-foreign-defenses/) - interesting economist; has quite a broad historical and geopolitical perspective; 
+
 # Week 6
 
 ## SLA
