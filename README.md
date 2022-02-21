@@ -1,5 +1,10 @@
 # Week 7
 
+## Volleyball
+
+* how to [float serve](https://www.youtube.com/watch?v=NRV0rMeSOBI&ab_channel=ElevateYourself) 
+
+
 ## Academia
 
 * FSE has [self-nominations for PC](https://conf.researchr.org/home/fse-2023)
