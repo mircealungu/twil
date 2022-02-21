@@ -1,3 +1,8 @@
+# Week 8
+
+* Proton Mail - [swiss-based encrypted email](https://protonmail.com/signup)
+
+
 # Week 7
 
 ## Volleyball
