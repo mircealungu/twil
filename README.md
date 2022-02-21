@@ -1,7 +1,6 @@
 # Week 8
 
-* Proton Mail - [swiss-based encrypted email](https://protonmail.com/signup)
-
+* Proton Mail - [swiss-based encrypted email](https://protonmail.com/signup); also discussion about privacy [only being possible if you self-host](https://www.reddit.com/r/europe/comments/1lryzd/are_there_any_good_european_alternatives_to_gmail/)
 
 # Week 7
 
