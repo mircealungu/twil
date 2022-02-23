@@ -1,5 +1,8 @@
 # Week 8
 
+* best cafe/places to work around Amagerbro: https://www.reddit.com/r/copenhagen/comments/szkjkr/best_cafesplaces_to_work_around_amagerbro/
+
+
 * Proton Mail - [swiss-based encrypted email](https://protonmail.com/signup); also discussion about privacy [only being possible if you self-host](https://www.reddit.com/r/europe/comments/1lryzd/are_there_any_good_european_alternatives_to_gmail/)
 
 * [dependency injection is dynamic scoping in disguise](https://news.ycombinator.com/item?id=21405962) - good article and discussion on HN
