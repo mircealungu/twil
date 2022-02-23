@@ -1,11 +1,13 @@
 # Week 8
 
-* best cafe/places to work around Amagerbro: https://www.reddit.com/r/copenhagen/comments/szkjkr/best_cafesplaces_to_work_around_amagerbro/
+* best [cafe/places to work around Amagerbro](https://www.reddit.com/r/copenhagen/comments/szkjkr/best_cafesplaces_to_work_around_amagerbro/) - Cafe Alice at the beginning of Amagerbrogade. Amongst the best pastry, and definitely the best ice-cream; IL BUCO in Islands Brygge
 
 
 * Proton Mail - [swiss-based encrypted email](https://protonmail.com/signup); also discussion about privacy [only being possible if you self-host](https://www.reddit.com/r/europe/comments/1lryzd/are_there_any_good_european_alternatives_to_gmail/)
 
 * [dependency injection is dynamic scoping in disguise](https://news.ycombinator.com/item?id=21405962) - good article and discussion on HN
+
+* funny discussion on reddit: Q: what are prestigious companies to work for in CPH? A: CPH people don't care. https://www.reddit.com/r/copenhagen/comments/sx9hc8/what_are_the_most_prestigious_companies_to_work/
 
 
 # Week 7
